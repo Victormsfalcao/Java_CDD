@@ -4,5 +4,5 @@
 /**
  * 
  */
-module aula03 {
+module poo_java {
 }
